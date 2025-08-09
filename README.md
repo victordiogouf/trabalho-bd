@@ -3,7 +3,9 @@
 ## Requerimentos
 
 Última versão do Node instalada.
+
 Usar comando 'npm install' dentro da pasta back, depois usar comando 'npm run start'
+
 Usar comando 'npm install' dentro da pasta front, depois usar comando 'npm run dev'
 
 Pronto! Agora é só acessar o app (frontend) no navegador através do link disponibilizado no terminal.
